@@ -52,7 +52,6 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Types\Address.cs" />
-    <Compile Include="Test\TestPersitence.cs" />
     <Compile Include="Types\Company.cs" />
     <Compile Include="Types\CompanyId.cs" />
     <Compile Include="Types\CustomerId.cs" />
@@ -66,6 +65,9 @@
   <ItemGroup>
     <None Include="App.config" />
     <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Test\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

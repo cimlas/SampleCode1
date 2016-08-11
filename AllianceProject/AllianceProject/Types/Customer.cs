@@ -1,6 +1,6 @@
 ﻿namespace AllianceProject.Types
 {
-    public class Customer : PersistenceBase
+    public class Customer : PersistenceBase<Customer>
     {
         public string FirstName { get; set; }
         public string LastName { get; set; }
@@ -12,11 +12,6 @@
             LastName = pLastName;
             Address = pAddress;
             Id = new CustomerId();
-        }
-
-        public static Customer Find(Identifier pId)
-        {
-            return PersistenceBase.Find(pId as CustomerId);
         }
 
         public override bool Equals(object pOther)

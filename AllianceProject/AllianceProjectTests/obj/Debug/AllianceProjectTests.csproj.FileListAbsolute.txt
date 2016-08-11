@@ -1,0 +1,12 @@
+C:\Users\Jimmy\Documents\Visual Studio 2015\Projects\AllianceProject\AllianceProjectTests\bin\Debug\AllianceProjectTests.dll
+C:\Users\Jimmy\Documents\Visual Studio 2015\Projects\AllianceProject\AllianceProjectTests\bin\Debug\AllianceProjectTests.pdb
+C:\Users\Jimmy\Documents\Visual Studio 2015\Projects\AllianceProject\AllianceProjectTests\bin\Debug\AllianceProject.exe
+C:\Users\Jimmy\Documents\Visual Studio 2015\Projects\AllianceProject\AllianceProjectTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Jimmy\Documents\Visual Studio 2015\Projects\AllianceProject\AllianceProjectTests\bin\Debug\nunit.framework.dll
+C:\Users\Jimmy\Documents\Visual Studio 2015\Projects\AllianceProject\AllianceProjectTests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jimmy\Documents\Visual Studio 2015\Projects\AllianceProject\AllianceProjectTests\bin\Debug\AllianceProject.pdb
+C:\Users\Jimmy\Documents\Visual Studio 2015\Projects\AllianceProject\AllianceProjectTests\bin\Debug\nunit.framework.xml
+C:\Users\Jimmy\Documents\Visual Studio 2015\Projects\AllianceProject\AllianceProjectTests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Jimmy\Documents\Visual Studio 2015\Projects\AllianceProject\AllianceProjectTests\obj\Debug\AllianceProjectTests.csprojResolveAssemblyReference.cache
+C:\Users\Jimmy\Documents\Visual Studio 2015\Projects\AllianceProject\AllianceProjectTests\obj\Debug\AllianceProjectTests.dll
+C:\Users\Jimmy\Documents\Visual Studio 2015\Projects\AllianceProject\AllianceProjectTests\obj\Debug\AllianceProjectTests.pdb

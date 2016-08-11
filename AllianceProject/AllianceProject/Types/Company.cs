@@ -1,6 +1,6 @@
 ﻿namespace AllianceProject.Types
 {
-    public class Company : PersistenceBase
+    public class Company : PersistenceBase<Company>
     {
         public string Name { get; set; }
         public Address Address { get; set; }
@@ -10,11 +10,6 @@
             Name = pName;
             Address = pAddress;
             Id = new CompanyId();
-        }
-
-        public static Company Find(Identifier pId)
-        {
-            return PersistenceBase.Find(pId as CompanyId);
         }
 
         public override bool Equals(object pOther)
